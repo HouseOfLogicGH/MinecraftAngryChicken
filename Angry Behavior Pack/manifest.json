@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Adds an aggressive chicken variant",
+        "name": "Angry Chicken Behavior Pack",
+        "uuid": "8c43def6-0686-4c96-8985-12345678abcd",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 19, 0]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "9d54def6-0686-4c96-8985-12345678abce",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "ca731745-e44d-4d5f-8b95-40f4046140db",
+            "version": [1, 0, 0]
+        }
+    ]
+}

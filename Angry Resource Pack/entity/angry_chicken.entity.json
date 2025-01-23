@@ -1,0 +1,22 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "custom:angry_chicken",
+            "materials": {
+                "default": "chicken"
+            },
+            "textures": {
+                "default": "textures/entity/angry_chicken"
+            },
+            "geometry": {
+                "default": "geometry.chicken"
+            },
+            "render_controllers": ["controller.render.angry_chicken"],
+            "spawn_egg": {
+                "base_color": "#FF0000",
+                "overlay_color": "#FFFFFF"
+            }
+        }
+    }
+}
